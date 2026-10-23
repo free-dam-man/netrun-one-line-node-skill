@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+work/
+*.zip
+*.png
+*secret*
+meta.json
+vless.txt
+client-config.json
